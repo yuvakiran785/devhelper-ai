@@ -1,0 +1,9 @@
+# DevHelper AI Dependencies
+# Official Google GenAI SDK (latest Gemini 2.5 API support)
+google-genai>=1.0.0
+
+# User Interface
+streamlit>=1.35.0
+
+# Environment variable loading
+python-dotenv>=1.0.0
