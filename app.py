@@ -17,7 +17,7 @@ from utils.gemini_client import (
     get_active_api_key,
 )
 
-# Load environment variables
+# Load environment variables use below code
 load_dotenv()
 
 # Page configuration

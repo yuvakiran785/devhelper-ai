@@ -105,3 +105,7 @@ Streamlit will automatically open your browser at `http://localhost:8501`.
 - **Strict System Instructions**: System instructions in `utils/prompts.py` demand direct markdown tables and code blocks without conversational filler ("Certainly! Here is your answer:"), saving 20–40% on output tokens per prompt.
 - **Deterministic Temperatures**: Low temperature settings (`0.1`–`0.3`) ensure consistent, reproducible explanations for code, SQL, and regex syntax.
 - **Graceful Error Handling**: Detects quota limits (HTTP 429), invalid keys, and network timeouts, presenting helpful notifications directly in the Streamlit UI.
+
+
+
+Created by yuva kiran
